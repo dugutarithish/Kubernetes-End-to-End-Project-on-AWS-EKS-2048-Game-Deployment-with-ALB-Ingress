@@ -670,11 +670,9 @@ Security
 
 ---
 
-# 👨‍💻 Author
 
 ## Rithish Kumar
 
-**B.Tech Artificial Intelligence**
 
 **Cloud & DevOps Enthusiast**
 
@@ -684,5 +682,4 @@ Security
 
 ---
 
-⭐ **If you found this project useful, consider giving the repository a star.**
 
