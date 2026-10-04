@@ -38,3 +38,8 @@ Ingress Resource: Triggering the creation of an external AWS Application Load Ba
 # AWS EKS Game 2048 Ingress Project
 
 A production-grade, end-to-end Kubernetes project deploying the classic **2048 game** on **Amazon EKS**, leveraging **AWS Fargate**, **IAM Roles for Service Accounts (IRSA)**, and the **AWS Load Balancer Controller** to manage public HTTP traffic via an AWS Application Load Balancer (ALB).
+
+
+
+<img width="1901" height="966" alt="Screenshot 2026-10-04 234423" src="https://github.com/user-attachments/assets/fb8435ab-1502-44d7-aa00-5727bc3c4f90" />
+
